@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapMyLocation</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="service_not_available">location service not available</string>
+    <string name="invalid_lat_long_used">invalid Latitude longitude data</string>
+    <string name="no_address_found">No address was found</string>
+</resources>
